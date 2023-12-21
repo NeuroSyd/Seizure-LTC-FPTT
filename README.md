@@ -2,3 +2,5 @@ Seizure detection with a biologically plausible algorithm. We used Adaptive Spik
 for the detection of seizures in scalp-EEG datasets. 
 
 Code can be updated according to desired and relevant datasets. 
+
+Paper title: "Biological Plausible Algorithm for Seizure Detection: Towards AI-enabled Electroceuticals at the edge."
